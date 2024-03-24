@@ -1,4 +1,4 @@
-# 🌍 Dynamic Field Label Translation with Azure OpenAI for Power Platform
+# 🌍 AI Global Translator : Dynamic Field Label Translation with Azure OpenAI for Power Platform
 
 Enhance your Power Apps with automatic field label translation by integrating Azure OpenAI, making your applications accessible to a global audience. This Power Platform solution automates the translation process by passing field label values from Power Apps to Power Automate, where Azure OpenAI is called upon to provide translations. These are then dynamically displayed in your Power Apps. Follow the guide below to import and set up this solution in your own environment.
 
